@@ -7,12 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+Our app proposes to allow a logged-in user to manage their habits and various tasks for which they might need reinforcement to perform or avoid performing. The basic form of the app allows user, once they are logged in, to enter/modify/remove habits, and update whether or not they completed the task on a specific day. User will then receive negative or positive reinfocement depending on their responses.
+
+
 ### Features
-Include Features here
+
+User login
+Interacting with user via emails
+
+
 ### Technologies
-Include Technologies here
+
+JavSacript/React
+Java/Spring Boot
+MySQL (Hibernate?)
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+Most technologies we learned to use during LC101. The new one is React, which I started learning about last week, and will definitely have to keep working. There are also specific things I will need to brush up on, like user authentication, (sending user emails is also something new actually), but I expect that there is enough online help on any of the features we are going to include in our app to be able to start building quickly.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/uH9NEjBx/liftoff

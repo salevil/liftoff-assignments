@@ -8,12 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://www.figma.com/file/dsZPUGbR5ADTtbsXfCsQZo/Habit-You-Heard?node-id=0%3A1
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/uH9NEjBx/liftoff
 
 ### Project Repo Link
+https://github.com/Jul-2022-LC-LiftOff/Habit-You-Heard-Frontend
+https://github.com/Jul-2022-LC-LiftOff/HabitYouHeard
 
-Include a link to your project on GitHub.

@@ -13,6 +13,6 @@ https://github.com/salevil
 https://www.linkedin.com/in/steve-levillain/
 
 ### Resume
-C1-Online_Profiles\Steve Levillain Resume 7.8.22.pdf
+https://docs.google.com/document/d/1qWR3XGBnhQi5CqXa1PVZ6owGDKvHfwTHK6YteZceB5U/edit?usp=sharing
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
